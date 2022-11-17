@@ -7,7 +7,7 @@ The goal of this project is to recreate the 'ls' command.
 Build and run :
 
 ```
-git clone git@github.com:FaureAlexis/PSU-100-myls.git myls; make re
+git clone git@github.com:FaureAlexis/PSU-100-myls.git myls; cd myls; make re
 ./myls <args>
 ```
 
